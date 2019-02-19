@@ -1,0 +1,12 @@
+*{
+	background-color: lightblue;
+	padding:0;
+	margin: 0;
+}
+body{
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: calibri, arial, sans-serif;
+}
